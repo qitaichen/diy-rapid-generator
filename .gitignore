@@ -2,3 +2,4 @@ out/*
 generator-output/*
 .idea/*
 *iml
+src/generator.xml
